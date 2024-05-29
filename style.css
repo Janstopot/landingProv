@@ -1,0 +1,11 @@
+.back{
+    height: 100vh;
+    background-color: #BE9B80;
+}
+
+h1 {
+    font-family: Manrope, sans-serif;
+    text-align: center;
+    font-size: 5rem;
+    color: #E8DCC6;
+}
